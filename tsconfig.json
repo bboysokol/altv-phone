@@ -1,0 +1,30 @@
+{
+  "include": ["src", "types"],
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./node_modules/@altv", "./types"],
+    "module": "esnext",
+    "target": "esnext",
+    "moduleResolution": "node",
+    "jsx": "preserve",
+    /* paths - import rewriting/resolving */
+    "paths": {
+      "pages/*": ["./src/pages/*"],
+      "rdx/*": ["./src/redux/*"],
+      "form/*": ["./src/components/Form/*"],
+      "components/*": ["./src/components/*"],
+      "types/*": ["./src/types/*"],
+      "routes/*": ["./src/routes/*"],
+      "interfaces/*": ["./src/interfaces/*"],
+      "utils/*": ["./src/utils/*"],
+      "hooks/*": ["./src/hooks/*"]
+    },
+    /* noEmit - Snowpack builds (emits) files, not tsc. */
+    "noEmit": true,
+    /* Additional Options */
+    "strict": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "allowSyntheticDefaultImports": true
+  }
+}

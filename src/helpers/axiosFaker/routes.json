@@ -1,0 +1,11 @@
+{
+  "/bank/getBankAccount?groupId=-1": "/mazeBank",
+  "/phone/getAllSmsData": "/messages",
+  "/phone/getAllContacts": "/contacts",
+  "/phone/getCallLog": "/callLogs",
+
+  "/races/getRacingRoutesList": "/racingRoutesList",
+  "/races/getActiveRace": "/activeRace",
+  "/clothes/get-by-character": "/clothes/get-by-character",
+  "/outfits/get-by-character": "/outfits/get-by-character"
+}

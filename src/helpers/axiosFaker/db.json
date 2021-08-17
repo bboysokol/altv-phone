@@ -1,0 +1,447 @@
+{
+  "contacts": [
+    {
+      "id": 7747,
+      "number": 824573,
+      "name": "Bx Testowy"
+    },
+    {
+      "id": 0,
+      "number": 444,
+      "name": "Centrala taksówek Los Santos"
+    },
+    {
+      "id": 7735,
+      "number": 328147,
+      "name": "Jimmy Marino"
+    },
+    {
+      "id": 7737,
+      "number": 328147,
+      "name": "Jimmy Marino"
+    },
+    {
+      "id": 7739,
+      "number": 328147,
+      "name": "Jimmy Marino"
+    },
+    {
+      "id": 7763,
+      "number": 683400,
+      "name": "Roy Santillian"
+    },
+    {
+      "id": 7781,
+      "number": 120959,
+      "name": "Siara Siarzewski"
+    },
+    {
+      "id": 7752,
+      "number": 704755,
+      "name": "Travis Stewart"
+    },
+    {
+      "id": 7753,
+      "number": 704755,
+      "name": "Travis Stewart"
+    },
+    {
+      "id": 7779,
+      "number": 653323,
+      "name": "vxnewood"
+    },
+    {
+      "id": 7726,
+      "number": 183756,
+      "name": "Wieslaw Puchacki"
+    }
+  ],
+  "messages": [
+    {
+      "id": 6302,
+      "from": 183756,
+      "messages": [
+        {
+          "id": 167097,
+          "self": false,
+          "message": "asdasd\nasdasd",
+          "created": "2021-05-01T02:10:10+02:00"
+        },
+        {
+          "id": 167099,
+          "self": false,
+          "message": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\n",
+          "created": "2021-05-01T02:10:19+02:00"
+        },
+        {
+          "id": 167100,
+          "self": true,
+          "message": "sdfsdf",
+          "created": "2021-05-01T02:13:30+02:00"
+        },
+        {
+          "id": 167103,
+          "self": false,
+          "message": "t",
+          "created": "2021-05-01T02:13:44+02:00"
+        },
+        {
+          "id": 167105,
+          "self": false,
+          "message": "a",
+          "created": "2021-05-01T02:13:45+02:00"
+        },
+        {
+          "id": 167107,
+          "self": false,
+          "message": "d",
+          "created": "2021-05-01T02:13:48+02:00"
+        },
+        {
+          "id": 167109,
+          "self": false,
+          "message": "e",
+          "created": "2021-05-01T02:13:50+02:00"
+        },
+        {
+          "id": 167111,
+          "self": false,
+          "message": "c",
+          "created": "2021-05-01T02:13:52+02:00"
+        },
+        {
+          "id": 167488,
+          "self": true,
+          "message": "sdfsdf",
+          "created": "2021-05-01T02:28:29+02:00"
+        },
+        {
+          "id": 167867,
+          "self": false,
+          "message": "taa",
+          "created": "2021-05-01T02:38:51+02:00"
+        },
+        {
+          "id": 167869,
+          "self": false,
+          "message": "elooo",
+          "created": "2021-05-01T02:40:35+02:00"
+        },
+        {
+          "id": 168249,
+          "self": false,
+          "message": "taaa",
+          "created": "2021-05-01T02:57:48+02:00"
+        },
+        {
+          "id": 169455,
+          "self": false,
+          "message": "aaa",
+          "created": "2021-05-01T03:42:48+02:00"
+        },
+        {
+          "id": 169457,
+          "self": false,
+          "message": "tatata",
+          "created": "2021-05-01T03:42:49+02:00"
+        },
+        {
+          "id": 169459,
+          "self": false,
+          "message": "asdasd",
+          "created": "2021-05-01T03:42:51+02:00"
+        },
+        {
+          "id": 169463,
+          "self": false,
+          "message": "asdasd",
+          "created": "2021-05-01T03:43:04+02:00"
+        },
+        {
+          "id": 169465,
+          "self": false,
+          "message": "qqq",
+          "created": "2021-05-01T03:43:11+02:00"
+        },
+        {
+          "id": 169467,
+          "self": false,
+          "message": "qwe",
+          "created": "2021-05-01T03:43:12+02:00"
+        },
+        {
+          "id": 169469,
+          "self": false,
+          "message": "awe",
+          "created": "2021-05-01T03:43:14+02:00"
+        },
+        {
+          "id": 169471,
+          "self": false,
+          "message": "asdasd",
+          "created": "2021-05-01T18:43:16+02:00"
+        }
+      ]
+    },
+    {
+      "id": 6305,
+      "from": 856432,
+      "messages": [
+        {
+          "id": 143683,
+          "self": false,
+          "message": "Siema",
+          "created": "2021-04-25T19:03:35+02:00"
+        },
+        {
+          "id": 144442,
+          "self": true,
+          "message": "test",
+          "created": "2021-04-25T19:36:15+02:00"
+        },
+        {
+          "id": 144444,
+          "self": true,
+          "message": "qasadasd",
+          "created": "2021-04-25T19:36:53+02:00"
+        }
+      ]
+    },
+    {
+      "id": 6502,
+      "from": 808416,
+      "messages": [
+        {
+          "id": 168814,
+          "self": true,
+          "message": "yooo",
+          "created": "2021-05-01T03:21:08+02:00"
+        }
+      ]
+    },
+    {
+      "id": 6512,
+      "from": 704755,
+      "messages": [
+        {
+          "id": 171551,
+          "self": false,
+          "message": "witam",
+          "created": "2021-05-01T11:43:22+02:00"
+        },
+        {
+          "id": 171552,
+          "self": true,
+          "message": "yuooo\n",
+          "created": "2021-05-01T11:43:31+02:00"
+        }
+      ]
+    },
+    {
+      "id": 6515,
+      "from": 701,
+      "messages": [
+        {
+          "id": 171760,
+          "self": true,
+          "message": "asdasd",
+          "created": "2021-05-01T12:07:42+02:00"
+        },
+        {
+          "id": 171763,
+          "self": false,
+          "message": "Nie znam Cie",
+          "created": "2021-05-01T12:07:42+02:00"
+        },
+        {
+          "id": 171764,
+          "self": true,
+          "message": "fsdfs\n",
+          "created": "2021-05-01T12:07:48+02:00"
+        },
+        {
+          "id": 171767,
+          "self": false,
+          "message": "Nsshfg",
+          "created": "2021-05-01T12:07:48+02:00"
+        }
+      ]
+    }
+  ],
+  "mazeBank": {
+    "accountNumber": "3719630965",
+    "accountOwnerName": "Ken Swift",
+    "money": 9937,
+    "credit": 0,
+    "subsidies": 0,
+    "transactions": [
+      {
+        "accountFrom": 2363,
+        "accountTo": 1941,
+        "transactionType": 1,
+        "transactionMethod": 0,
+        "transferType": 0,
+        "transferIdentification": null,
+        "amount": 11,
+        "title": "dfgdfg",
+        "date": "2021-05-01T10:04:20"
+      },
+      {
+        "accountFrom": 2363,
+        "accountTo": 2369,
+        "transactionType": 1,
+        "transactionMethod": 0,
+        "transferType": 0,
+        "transferIdentification": null,
+        "amount": 1,
+        "title": "dfgdfg",
+        "date": "2021-05-01T09:46:09"
+      },
+      {
+        "accountFrom": 2360,
+        "accountTo": 2363,
+        "transactionType": 0,
+        "transactionMethod": 0,
+        "transferType": 1,
+        "transferIdentification": "Przelew nadany z konta o numerze: 6437763280",
+        "amount": 49,
+        "title": "dfgdfg",
+        "date": "2021-04-30T22:05:31"
+      },
+      {
+        "accountFrom": 2363,
+        "accountTo": 2366,
+        "transactionType": 1,
+        "transactionMethod": 0,
+        "transferType": 0,
+        "transferIdentification": null,
+        "amount": 100,
+        "title": "dfgdfg",
+        "date": "2021-04-24T16:04:16"
+      },
+      {
+        "accountFrom": 2363,
+        "accountTo": -1,
+        "transactionType": 0,
+        "transactionMethod": 1,
+        "transferType": null,
+        "transferIdentification": null,
+        "amount": 10000,
+        "title": "Wpłata w bankomacie",
+        "date": "2021-04-24T15:56:12"
+      }
+    ],
+    "cards": [
+      {
+        "id": 131143,
+        "name": "Karta płatnicza",
+        "characterId": 4243,
+        "vehicleId": null,
+        "groundId": null,
+        "interiorId": null,
+        "itemId": null,
+        "type": 26,
+        "value1": 1234,
+        "value2": 1,
+        "value3": "3719630965",
+        "value4": 0,
+        "durability": 100.0,
+        "used": true,
+        "lastUsed": "2021-03-27T19:53:50",
+        "lastUsedId": 4243,
+        "fingerprintCode": null,
+        "g_DateHire": null,
+        "g_GroupId": null,
+        "g_CharacterId": null,
+        "x_DateCreated": "2021-03-27T19:53:30",
+        "x_DateModified": "2021-04-24T15:55:32",
+        "x_DateDeleted": null,
+        "x_CreatedBy": 4243,
+        "x_ModifiedBy": null,
+        "x_DeletedBy": null,
+        "lastUsedCharacter": null,
+        "character": null,
+        "vehicle": null,
+        "ground": null,
+        "interior": null,
+        "item": null,
+        "gGroup": null,
+        "gCharacter": null
+      }
+    ],
+    "groups": [
+      {
+        "groupId": 118,
+        "groupName": "Los Santos County Sheriff's Department"
+      }
+    ],
+    "isGroup": false
+  },
+  "callLogs": [
+    {
+      "phoneNumber": 824573,
+      "type": 0,
+      "date": "2021-05-01T10:04:20"
+    },
+    {
+      "phoneNumber": 444,
+      "type": 0,
+      "date": "2021-05-01T10:04:20"
+    },
+    {
+      "phoneNumber": 328147,
+      "type": 1,
+      "date": "2021-05-01T10:04:20"
+    },
+    {
+      "phoneNumber": 328147,
+      "type": 2,
+      "date": "2021-02-01T10:04:20"
+    },
+    {
+      "phoneNumber": 328147,
+      "type": 0,
+      "date": "2021-04-01T10:04:20"
+    },
+    {
+      "phoneNumber": 683400,
+      "type": 0,
+      "date": "2021-05-01T10:04:20"
+    },
+    {
+      "phoneNumber": 120959,
+      "type": 1,
+      "date": "2021-01-01T10:04:20"
+    },
+    {
+      "phoneNumber": 704755,
+      "type": 2,
+      "date": "2021-06-12T10:04:20"
+    },
+    {
+      "phoneNumber": 70475,
+      "type": 2,
+      "date": "2021-06-20T10:04:20"
+    },
+    {
+      "phoneNumber": 653323,
+      "type": 0,
+      "date": "2021-06-28T10:04:20"
+    },
+    {
+      "phoneNumber": 183756,
+      "type": 1,
+      "date": "2021-07-02T10:04:20"
+    },
+    {
+      "phoneNumber": 183756,
+      "type": 1,
+      "date": "2021-06-28T10:04:20"
+    },
+    {
+      "phoneNumber": 183756,
+      "type": 1,
+      "date": "2021-07-04T10:04:20"
+    }
+  ]
+}
