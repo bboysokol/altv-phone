@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 import dayjs from 'dayjs';
 import 'dayjs/locale/pl';
 import relativeTime from 'dayjs/plugin/relativeTime';
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { Provider } from 'react-redux';
 import { configureAxios } from './helpers/axiosHelper';
 import { store } from './redux/configureStore';
